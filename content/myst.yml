@@ -1,0 +1,117 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b4232ea9-eee3-440f-bd09-efc390a54227
+  title: 'Paper is not enough: Crowdsourcing the T1 mapping common ground via the ISMRM reproducibility challenge'
+  authors:
+    - name: Mathieu Boudreau
+      orcid: 0000-0002-7726-4456
+      affiliations:
+        - NeuroPoly Lab, Polytechnique Montréal, Montreal, Quebec, Canada
+        - Montreal Heart Institute, Montreal, Quebec, Canada
+    - name: Agah Karakuzu
+      orcid: 0000-0001-7283-271X
+      affiliations:
+        - NeuroPoly Lab, Polytechnique Montréal, Montreal, Quebec, Canada
+    - name: Julien Cohen-Adad
+      orcid: 0000-0003-3662-9532
+      affiliations:
+        - NeuroPoly Lab, Polytechnique Montréal, Montreal, Quebec, Canada
+        - Unité de Neuroimagerie Fonctionnelle (UNF), Centre de recherche de l’Institut Universitaire de Gériatrie de Montréal (CRIUGM), Montreal, Quebec, Canada
+        - Mila - Quebec AI Institute, Montreal, QC, Canada
+        - Centre de recherche du CHU Sainte-Justine, Université de Montréal, Montreal, QC, Canada
+    - name: Ecem Bozkurt
+      affiliations:
+        - Magnetic Resonance Engineering Laboratory (MREL), University of Southern California, Los Angeles, California, USA
+    - name: Madeline Carr
+      orcid: 0000-0002-4915-5076
+      affiliations:
+        - Medical Physics, Ingham Institute for Applied Medical Research, Liverpool, Australia
+        - Department of Medical Physics, Liverpool and Macarthur Cancer Therapy Centres, Liverpool, Australia
+    - name: Marco Castellaro
+      orcid: 0000-0002-1203-2670
+      affiliations:
+        - Department of Information Engineering, University of Padova, Padova, Italy
+    - name: Luis Concha
+      orcid: 0000-0002-7842-3869
+    - name: Mariya Doneva
+    - name: Seraina Dual
+      orcid: 0000-0001-6867-8270
+    - name: Alex Ensworth
+    - name: Alexandru Foias
+    - name: Véronique Fortier
+      orcid: 0000-0003-1859-003X
+    - name: Refaat Gabr  E.
+      orcid: 0000-0002-8802-3201
+    - name: Guillaume Gilbert
+    - name: Carri Glide-Hurst  K.
+      orcid: 0000-0001-7989-4382
+    - name: Matthew Grech-Sollars
+      orcid: 0000-0003-3881-4870
+    - name: Siyuan Hu
+    - name: Oscar Jalnefjord
+      orcid: 0000-0003-2741-5890
+    - name: Jorge Jovicich
+      orcid: 0000-0001-9504-7503
+    - name: Kübra Keskin
+      orcid: 0000-0003-4571-2813
+    - name: Peter Koken
+    - name: Anastasia Kolokotronis
+    - name: Simran Kukran
+    - name: Nam Lee . G.
+      orcid: 0000-0001-5462-1492
+    - name: Ives Levesque  R.
+      orcid: 0000-0002-0546-1733
+    - name: Bochao Li
+      orcid: 0000-0002-5267-9129
+    - name: Dan Ma
+      orcid: 0000-0003-1664-9579
+    - name: Burkhard Mädler
+      orcid: 0000-0002-1465-2961
+    - name: Nyasha Maforo
+      orcid: 0000-0002-5741-7021
+    - name: Jamie Near
+    - name: Erick Pasaye
+      orcid: 0000-0002-0637-0833
+    - name: Alonso Ramirez-Manzanares
+      orcid: 0000-0001-6645-9162
+    - name: Ben Statton
+      orcid: 0000-0001-5118-7977
+    - name: Christian Stehning
+      orcid: 0000-0002-0660-840X
+    - name: Stefano Tambalo
+      orcid: 0000-0003-2562-1324
+    - name: Ye Tian
+      orcid: 0000-0002-8559-4404
+    - name: Chenyang Wang
+      orcid: 0000-0001-6798-0857
+    - name: Kilian Weis
+    - name: Niloufar Zakariaei
+    - name: Shuo Zhang
+      orcid: 0000-0002-1057-7255
+    - name: Ziwei Zhao
+      orcid: 0000-0003-0281-1141
+    - name: Nikola Stikov
+      orcid: 0000-0002-8480-5230
+  keywords:
+    - quantitative MRI
+    - T1 mapping inversion recovery
+    - reproducibility
+    - open data
+  github: https://github.com/roboneurolibre/note
+  downloads:
+    - url: https://binder-mcgill.conp.cloud/v2/gh/roboneurolibre/note/main?urlpath=lab/tree/content/index.ipynb
+      title: Launch Jupyter
+  banner: banner.png
+  venue: Neurolibre
+  subject: Research Paper
+  numbering:
+    headings: true
+  doi: 10.55458/neurolibre.00023
+  open_access: true
+  license: CC-BY-4.0
+  abbreviations:
+    MRI: Magnetic resonance imaging
+    qMRI: quantitative magnetic resonance imaging
+site:
+  template: article-theme
